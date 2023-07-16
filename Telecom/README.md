@@ -1,5 +1,5 @@
 # Проект по работе с клиентами оператора связи: модель прогноза оттока клиентов
-[ссылка на проект в ipynb](Final_project_Telecom.ipynd)
+[ссылка на проект в ipynb](https://github.com/annapugovkina/Portfolio/blob/main/Telecom/Final_project_Telecom.ipynb)
 
 [ссылка на проект в HTML](https://github.com/annapugovkina/Portfolio/blob/main/Telecom/Final_project_Telecom.html)
 
