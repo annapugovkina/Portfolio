@@ -1,8 +1,6 @@
 # Проект по классификации тональности текстовых комментариев
 [ссылка на проект в ipynb](https://github.com/annapugovkina/Portfolio/blob/main/Text%20Classification/Text%20Classification.ipynb)
 
-[ссылка на проект в html](https://github.com/annapugovkina/Portfolio/blob/main/Text%20Classification/Text%20Classification.html)
-
 ## Описание проекта
 Интернет-магазину требуется инструмент, который будет искать токсичные комментарии пользователей о товаре и отправлять их на модерацию. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В распоряжении набор данных с разметкой о токсичности правок.
 
