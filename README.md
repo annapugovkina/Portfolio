@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of educational projects Yandex practicum.
+Portfolio of educational projects Yandex practicum (Data Science).
 
 Здесь представлены значимые реализованные учебные проекты в рамках обучения на курсе "Специалист по Data Science" от Яндекс Практикум.
 
